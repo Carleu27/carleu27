@@ -23,13 +23,13 @@ Otras áreas de interés: Testing de aplicaciones, Inteligencia Artificial
 
 ## Proyectos destacados
 
-Sistema de gestión de gimnasio
+## Sistema de gestión de gimnasio
 
 Aplicación orientada a la gestión interna de un gimnasio, incluyendo socios, membresías y pagos.
 
 Tecnologías: Android Studio, Kotlin/Java
 
-Sistema de gestión de una clínica
+## Sistema de gestión de una clínica
 
 Sistema orientado a la gestión de turnos, recepción y recursos internos de una clínica.
 
@@ -42,7 +42,7 @@ Trabajos de análisis estadístico y caracteización de datos meidante tablas, g
 
 Herramientas: Infostat, Excel/Sheets, Visualización de datos
 
-##Formación
+## Formación
 
 Tecnicatura Superior en Desarrollo de Software. IFTS - CABA
 
@@ -59,7 +59,7 @@ Cloud
 
 Testing
 
-Data&Business INtelligence
+Data & Business Intelligence
 
 Nuevas herramientas de desarrollo asistido por IA
 
