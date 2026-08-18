@@ -60,69 +60,39 @@ Otras áreas:
 [![Testing](https://img.shields.io/badge/Testing-6A1B9A?style=for-the-badge&logo=testinglibrary&logoColor=white)](#)
 [![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
   
-## Proyectos destacados
+## 🎓 Formación
 
-### Sistema de gestión de gimnasio
+**Tecnicatura Superior en Desarrollo de Software**
 
-Aplicación orientada a la gestión interna de un gimnasio, incluyendo socios, membresías y pagos.
+🏫 **IFTS 29 — CABA**  
+📚 **Actualmente cursando 2.º año**
 
-Tecnologías: Android Studio, Kotlin/Java
+## 📚 Actualmente aprendiendo
 
-### Sistema de gestión de una clínica
+### Desarrollo
 
-Sistema orientado a la gestión de turnos, recepción y recursos internos de una clínica.
+[![Frontend](https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JavaScript-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
 
-Tecnologías: C#, SQL
+[![Backend](https://img.shields.io/badge/Backend-En%20aprendizaje-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
 
-### Análisis y visualización de datos
+[![Software Engineering](https://img.shields.io/badge/Software%20Engineering-En%20aprendizaje-6C63FF?style=flat-square)](#)
 
+### Otras áreas
 
-Trabajos de análisis estadístico y caracteización de datos meidante tablas, gráficos y medidas estadísticas.
+[![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Vercel-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
 
-Herramientas: Infostat, Excel/Sheets, Visualización de datos
+[![Testing](https://img.shields.io/badge/Testing-En%20aprendizaje-6A1B9A?style=flat-square&logo=testinglibrary&logoColor=white)](#)
 
-## Formación
+[![Data](https://img.shields.io/badge/Data%20%26%20Business%20Intelligence-En%20aprendizaje-4479A1?style=flat-square)](#)
 
-Tecnicatura Superior en Desarrollo de Software. IFTS - CABA
+[![AI](https://img.shields.io/badge/AI%20Development-Herramientas%20asistidas%20por%20IA-412991?style=flat-square&logo=openai&logoColor=white)](#)
 
+## 📫 Contacto
 
-## Actualmente aprendiendo
+[![GitHub](https://img.shields.io/badge/GitHub-Carleu27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carleu27)
 
-Desarrollo Web Frontend
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU-LINKEDIN)
 
-Desarrollo Web Backend
+## 🎯 Objetivo
 
-Ingeniería de Software
-
-Cloud
-
-Testing
-
-Data & Business Intelligence
-
-Nuevas herramientas de desarrollo asistido por IA
-
-## Contacto
-
-LinkedIn:
-
-## Objetivo
-
-Continuar desarrollándome profesionalmente en el área IT, adquiriendo experiencia mediante proyectos reales y oportunidades laborales dentro del desarrollo de software.
-
-
-
-<!--
-**Carleu27/carleu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollarme profesionalmente en el área IT, fortaleciendo mis conocimientos mediante proyectos reales, aprendizaje continuo y oportunidades laborales vinculadas al desarrollo de software.
