@@ -22,36 +22,52 @@ Bases de datos: MySQL, SQL Herramientas: Git, GitHub, VS Code, Visual Studio, An
 Otras áreas de interés: Testing de aplicaciones, Inteligencia Artificial
 
 ## Proyectos destacados
+
 Sistema de gestión de gimnasio
+
 Aplicación orientada a la gestión interna de un gimnasio, incluyendo socios, membresías y pagos.
+
 Tecnologías: Android Studio, Kotlin/Java
+
 Sistema de gestión de una clínica
+
 Sistema orientado a la gestión de turnos, recepción y recursos internos de una clínica.
+
 Tecnologías: C#, SQL
+
 Análisis y visualización de datos
+
+
 Trabajos de análisis estadístico y caracteización de datos meidante tablas, gráficos y medidas estadísticas.
+
 Herramientas: Infostat, Excel/Sheets, Visualización de datos
 
 ##Formación
+
 Tecnicatura Superior en Desarrollo de Software. IFTS - CABA
 
 
 ## Actualmente aprendiendo
+
 Desarrollo Web Frontend
+
 Desarrollo Web Backend
 
 Ingeniería de Software
 
 Cloud
+
 Testing
 
 Data&Business INtelligence
+
 Nuevas herramientas de desarrollo asistido por IA
 
-##Contacto
+## Contacto
+
 LinkedIn:
 
-##Objetivo
+## Objetivo
 
 Continuar desarrollándome profesionalmente en el área IT, adquiriendo experiencia mediante proyectos reales y oportunidades laborales dentro del desarrollo de software.
 
