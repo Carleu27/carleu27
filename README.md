@@ -3,12 +3,11 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRpbDhkOWgwc2dmYjRpeTl2dXAybTdjbGV3MnZyZW5xN2l1aWN6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dscTJjpsiVamjIk6nk/giphy.gif" width="100"/>
 </div>
 
+## 👩‍💻 Sobre mí
 
-## Sobre mi
+Estoy formándome como **Desarrolladora de Software**, con interés en seguir creciendo en programación, desarrollo de aplicaciones, desarrollo web y bases de datos.
 
--Estudiante de Tecnicatura Superior en Desarrollo de Softare, actualmente cursando el segundo año en IFTS 29.
-
--Me interesa el desarrollo de aplicaciones, la creacion de soluciones digitrales y el trabajo con tecnologias web, bases de datos y desarrollo de software.
+Me interesa continuar aprendiendo, poner en práctica mis conocimientos y ampliar progresivamente mis habilidades dentro del área IT.
 
 ## Tecnologias
 
